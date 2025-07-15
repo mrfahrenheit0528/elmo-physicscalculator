@@ -1,0 +1,30 @@
+Physics Problem:
+1. An airplane accelerates down a runway at 3.20 m/s2 for 32.8 s until is finally lifts off the ground. Determine the distance traveled before takeoff.
+Find: Displacement
+Given: acceleration = 3.20m/s2, time = 32.8s
+
+2. Upton Chuck is riding the Giant Drop at Great America. If Upton free falls for 2.60 seconds, how far will he fall?
+Find: displacement
+Given: acceleration=9.8, time = 2.6s
+
+3. Rocket-powered sleds are used to test the human response to acceleration. If a rocket-powered sled is accelerated to a speed of 444 m/s in 1.83 seconds, then what is the acceleration of the sled?
+Find: acceleration
+Given: initial velocity = 0, final velocity = 444m/s, time = 1.83s
+
+4. A race car accelerates uniformly from 18.5 m/s to 46.1 m/s in 2.47 seconds. Determine the acceleration of the car.
+Find: acceleration
+Given: initial velocity = 18.5m/s, final velocity = 46.1m/s, time = 2.47seconds
+
+5. A 1.12kg ball rolls forward with a net acceleration of 1.11m/s2. What is the net force on the ball?
+Find: Force
+Given: mass = 1.12kg, acceleration = 1.11m/s2
+
+6. Franklin lifts a 2kg weight vertically. If he lifts it so that way the velocity of the weight is constant, how much force is he using?
+Find: Force
+Given: mass=2kg, acceleration=9.81m/s2
+
+7. Calculate the momentum of a 1200kg car with a velocity of 25m/s
+Find: Momentum
+Given: mass = 12000, velocity = 25m/s
+
+8. 
